@@ -35,7 +35,7 @@ Phát hiện biển số xe từ ảnh input
 
 ![alt text](https://github.com/Abramo-Cassano/LPDR/blob/main/images/OCR.png?raw=true)
 
-### 5.1 Thực nghiệm trong thời gian thực
+### 5.2 Thực nghiệm trong thời gian thực
 Khi camera phát hiện được biển số xe sẽ lưu hình ảnh của biến số vào thư mục chỉ định, và tiến hành đọc các ký tự trên đó. 
 ![alt text](https://github.com/Abramo-Cassano/LPDR/blob/main/images/ezgif-3-d6e3c04a55.gif)
 
