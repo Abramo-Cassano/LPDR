@@ -1,6 +1,6 @@
 # LPDR - LICENSE PLATE DETECTION & RECOGNOTION
 ## 1. Thông tin nhóm 
-| Name | ID |
+| Tên | MSSV |
 | --------------- | --------------- | 
 | Bui Van Hung | 19127414 | 
 | Nguyen Thai Binh | 19127103 | 
@@ -25,7 +25,14 @@ Link download:
 | Vietnamese License Plate Detection   | [Link](https://drive.google.com/file/d/1irJC4V4IlxJJKOtJX1u0LZSSUrKjjgTq/view?usp=sharing) | [Link](https://drive.google.com/file/d/1KLK-DWgT3VoQH4fcTxAt2eB3sm7DGWAf/view?usp=sharing)|
 
 ## 5. Kết quả thực nghiệm
-### 5.1 Thực nghiệm trên ảnh đơn 
+Kết quả thực nghiệm trên ảnh xe máy: 
+|Số mẫu| Dòng 1| Dòng 2|
+|------|-------|-------|
+|15|10/15|11/15|
+
+Trong điều kiện thiếu sáng và ảnh bị nghiêng thì mô hình hoạt động không hiệu quả. 
+
+### Thực nghiệm trên ảnh đơn 
 
 Phát hiện biển số xe từ ảnh input
 
@@ -35,7 +42,7 @@ Phát hiện biển số xe từ ảnh input
 
 ![alt text](https://github.com/Abramo-Cassano/LPDR/blob/main/images/OCR.png?raw=true)
 
-### 5.2 Thực nghiệm trong thời gian thực
+### Thực nghiệm trong thời gian thực
 Khi camera phát hiện được biển số xe sẽ lưu hình ảnh của biến số vào thư mục chỉ định, và tiến hành đọc các ký tự trên đó. 
 ![alt text](https://github.com/Abramo-Cassano/LPDR/blob/main/images/ezgif-3-d6e3c04a55.gif)
 
