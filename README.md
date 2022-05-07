@@ -1,4 +1,4 @@
-# LPDR - LICENSE PLATE DETECTION & RECOGNOTION
+# LPDR - LICENSE PLATE DETECTION & RECOGNITION
 ## 1. Thông tin nhóm 
 | Tên | MSSV |
 | --------------- | --------------- | 
